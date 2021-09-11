@@ -1,0 +1,43 @@
+.logo{
+    width: 45px;
+    height: 45px;
+}
+.left{
+    display: inline-block;
+    width: 40%;
+}
+
+.right{
+    display:inline-block;
+    width: 40%;
+    
+}
+
+.app{
+    width: 150px;
+    height: 100px;
+}
+
+.right{
+    width: 500px;
+    height: 500px;
+    
+}
+
+.footer{
+    padding: 10px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: inherit;
+}
+.block{
+    display: block;
+}
+
+button{
+    border-radius: 50%;
+    background-color: ;
+
+}
